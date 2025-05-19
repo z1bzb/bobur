@@ -1,0 +1,141 @@
+table,
+td,
+th {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.a1 {
+	text-align: center;
+}
+.a2 {
+	text-align: center;
+	background: local darkorchid;
+	border-radius: 10px;
+	border: solid red;
+}
+.a3 {
+	color: blue;
+}
+.a4 {
+	color: brown;
+}
+.a5 {
+	color: gold;
+}
+.a6 {
+	color: darkgreen;
+}
+.a7 {
+	color: red;
+}
+.a8 {
+	color: black;
+}
+.a9 {
+	text-align: center;
+	background-color: gold;
+}
+.a10 {
+	background-color: red;
+}
+
+.a11 {
+	background-color: green;
+}
+.a17 {
+	background-color: green;
+}
+.a23 {
+	background-color: green;
+}
+.a29 {
+	background-color: green;
+}
+.a35 {
+	background-color: greenyellow;
+}
+
+.a18 {
+	background-color: blueviolet;
+}
+.a19 {
+	background-color: blueviolet;
+}
+.a20 {
+	background-color: blueviolet;
+}
+.a21 {
+	background-color: blueviolet;
+}
+.a22 {
+	background-color: blueviolet;
+}
+
+.a12 {
+	background-color: blueviolet;
+}
+.a13 {
+	background-color: blueviolet;
+}
+.a14 {
+	background-color: blueviolet;
+}
+.a15 {
+	background-color: blueviolet;
+}
+.a16 {
+	background-color: blueviolet;
+}
+
+.a24 {
+	background-color: blueviolet;
+}
+.a25 {
+	background-color: blueviolet;
+}
+.a26 {
+	background-color: blueviolet;
+}
+.a27 {
+	background-color: blueviolet;
+}
+.a28 {
+	background-color: blueviolet;
+}
+
+.a30 {
+	background-color: blueviolet;
+}
+.a31 {
+	background-color: blueviolet;
+}
+.a32 {
+	background-color: blueviolet;
+}
+.a33 {
+	background-color: blueviolet;
+}
+.a34 {
+	background-color: blueviolet;
+}
+
+.a36 {
+	width: 300px;
+	text-align: center;
+}
+.a37 {
+	width: 300px;
+	text-align: center;
+}
+.a38 {
+	width: 250px;
+	text-align: center;
+}
+.a39 {
+	width: 300px;
+	text-align: center;
+}
+
+.a40 {
+	width: 500px;
+}
